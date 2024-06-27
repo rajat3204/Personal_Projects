@@ -6,9 +6,3 @@
 
 
 
-> **Project: Infrastructure Deployment using Terraform**
-
-**Tools Used:** Terraform
-
-**Description:** Developed and managed AWS infrastructure using Terraform. Created a VPC with two private and two public subnets across different Availability Zones. Utilized the VPC module in the EC2 configuration to ensure instances launched within the specified VPC. Configured Elastic IP (EIP) and associated it with the EC2 instances. Automated the creation and download of key pairs to enable secure connection to the EC2 instances from a local machine.
-
