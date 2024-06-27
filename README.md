@@ -7,6 +7,4 @@
 
 
 
-
-
-          ![image](https://github.com/rajat3204/Personal_Projects/assets/107917595/36c7c6d3-7126-4eb6-a788-ab71189da697)
+![image](https://github.com/rajat3204/Personal_Projects/assets/107917595/36c7c6d3-7126-4eb6-a788-ab71189da697)
